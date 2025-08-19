@@ -19,7 +19,7 @@ I'm a passionate Information Technology undergraduate at Sri Sivasubramaniya Nad
         <p>
           <sub>Built with Python, Django, Pandas, and React</sub>
         </p>
-        <p><strong><a href="[https://github.com/shaam-a-s/symptom-checker-full-stack]">GitHub Repo</a></strong> | <strong><a href="[https://ai-health-chec.netlify.app/]">Live Site</a></strong></p>
+        <p><strong><a href="https://github.com/shaam-a-s/symptom-checker-full-stack">GitHub Repo</a></strong> | <strong><a href="https://ai-health-chec.netlify.app/">Live Site</a></strong></p>
       </div>
     </td>
     <td width="50%">
@@ -29,7 +29,7 @@ I'm a passionate Information Technology undergraduate at Sri Sivasubramaniya Nad
         <p>
           <sub>Built with Python, Tkinter, CSV, and JSON</sub>
         </p>
-        <p><strong><a href="[https://github.com/shaam-a-s/laundrymanagement]">GitHub Repo</a></strong></p>
+        <p><strong><a href="https://github.com/shaam-a-s/laundrymanagement">GitHub Repo</a></strong></p>
       </div>
     </td>
   </tr>
@@ -41,7 +41,7 @@ I'm a passionate Information Technology undergraduate at Sri Sivasubramaniya Nad
         <p>
           <sub>Built with Python, Flask, and HTML/CSS</sub>
         </p>
-        <p><strong><a href="[https://github.com/shaam-a-s/filezipper]">GitHub Repo</a></strong></p>
+        <p><strong><a href="https://github.com/shaam-a-s/filezipper">GitHub Repo</a></strong></p>
       </div>
     </td>
     <td width="50%">
@@ -51,7 +51,7 @@ I'm a passionate Information Technology undergraduate at Sri Sivasubramaniya Nad
         <p>
           <sub>Built with [Mention technologies used]</sub>
         </p>
-        <p><strong><a href="[https://github.com/shaam-a-s/my-portfolio]">GitHub Repo</a></strong> | <strong><a href="[https://shaam-a-s.github.io/my-portfolio/]">Live Site</a></strong></p>
+        <p><strong><a href="https://github.com/shaam-a-s/my-portfolio">GitHub Repo</a></strong> | <strong><a href="https://shaam-a-s.github.io/my-portfolio/">Live Site</a></strong></p>
       </div>
     </td>
   </tr>
