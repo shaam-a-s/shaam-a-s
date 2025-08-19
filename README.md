@@ -4,9 +4,8 @@ I'm a passionate Information Technology undergraduate at Sri Sivasubramaniya Nad
 
 ### 🔧 Technologies & Tools
 
-- **Advanced:** Python | SQL | HTML/CSS | Tkinter
-- **Intermediate:** React
-- **Basics:** C | Java
+- **Advanced:** Python | SQL | HTML/CSS | Tkinter | React | Java | Javascript
+- **Basics:** C 
 - **Tools:** Figma | Git | VS Code | Arduino IDE
 ### 🚀 My Projects
 
